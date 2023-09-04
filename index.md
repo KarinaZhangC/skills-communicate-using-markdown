@@ -10,3 +10,7 @@ System.out.println("Hello! I'm here");
 $ conda deactivate
 Deactivate conda virtual environment
 ```
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
